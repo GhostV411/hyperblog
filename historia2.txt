@@ -1,3 +1,1 @@
-hola esto es un archivo de ejemplo 2
-
-Ahora lo HE editado 2 veces.
+Hola este es un archivo de ejemplo.
