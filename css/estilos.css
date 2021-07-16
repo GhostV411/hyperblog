@@ -21,3 +21,13 @@ body
     color:blue;
     font-size: 40px;
 }
+
+#cabecera
+{
+    text-align: center;
+    font-size:2rem;
+    border-left-style: solid;
+    border-color:blue;
+    border: 1px solid blue left;
+    
+}
